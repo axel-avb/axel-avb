@@ -28,7 +28,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           optimize: svg
           experimental_features: --optimize-svg        
@@ -41,7 +41,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           optimize: svg
           experimental_features: --optimize-svg
@@ -54,7 +54,7 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           optimize: svg
           experimental_features: --optimize-svg
@@ -65,7 +65,7 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 30
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           optimize: svg
           experimental_features: --optimize-svg
