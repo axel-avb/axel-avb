@@ -1,3 +1,18 @@
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="/github-metrics.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="/metrics.plugin.isocalendar.fullyear.svg" alt=""></img>
+    </td>
+  </tr>
+</table>
+
 <!--
 ![Metrics](/github-metrics.svg)
 
@@ -7,12 +22,14 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 !-->
+<!--
 ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 
 <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="full year calendar commits" width="100%">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 ## Hi there 👋
+!-->
 
 <!--
 **axel-avb/axel-avb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
