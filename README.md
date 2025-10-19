@@ -7,6 +7,8 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 !-->
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 ## Hi there 👋
 
