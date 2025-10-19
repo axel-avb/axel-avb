@@ -16,4 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          optimize: svg
+          experimental_features: --optimize-svg
           token: ${{ secrets.METRICS_TOKEN }}
+          
