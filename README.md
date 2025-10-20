@@ -14,8 +14,8 @@
       <img align="center" height=200 width=800 alt="Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axel-avb&theme=default" />      
     </td>
     <td>
-    ![Metrics](/general.svg)
-    </td>
+       <img align="center" height=200 width=800 alt="Metrics general " src="/general.svg" />      
+    </td>      
 </table>
 
 
