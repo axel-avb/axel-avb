@@ -11,11 +11,12 @@
 <table>
   <tr>
     <td>
-      <img align="center" height=200 width=800 alt="Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axel-avb&theme=default" />      
+      <img align="center" height=400 width=800 alt="Activity stats " src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axel-avb&theme=default" />      
     </td>
     <td>
-       <img align="center" height=200 width=800 alt="Metrics general " src="/general.svg" />      
-    </td>      
+       <img align="center" width=600 alt="Metrics general " src="/general.svg" />      
+    </td>
+  </tr>
 </table>
 
 
