@@ -12,7 +12,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center", colspawn = 2>
+    <td align="center", colspan = 2>
       <img alt="" width="800" src="/metrics.plugin.languages.svg" alt="languages"></img>
     </td>
   </tr>
