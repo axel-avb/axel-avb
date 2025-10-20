@@ -67,7 +67,7 @@
 </td></tr><tr><td colspan = "2">
 
 ### Tech Stack
-![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics&logoColor=#03234B)
+![STM32](https://img.shields.io/badge/-STM32-333333?style=flat&logo=stmicroelectronics&logoColor=white)
 ![GD32](https://img.shields.io/badge/-GD32-333333?style=flat&logo=GD32&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=ESP32&logoColor=white)
 ![CortexM](https://img.shields.io/badge/-CortexM-333333?style=flat&logo=CortexM&logoColor=white)
