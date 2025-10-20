@@ -73,7 +73,6 @@
 ![CortexM](https://img.shields.io/badge/-CortexM-333333?style=flat&logo=arm&logoColor=white)
 ![CortexA](https://img.shields.io/badge/-CortexA-333333?style=flat&logo=arm&logoColor=white)
 ![RISC](https://img.shields.io/badge/-RISC-333333?style=flat&logo=riscv&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-333333?style=flat&logo=TCP/IP&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-333333?style=flat&logo=FreeRTOS&logoColor=white)
 ![RTThread](https://img.shields.io/badge/-RTThread-333333?style=flat&logo=RTThread&logoColor=white)
 ![IOT](https://img.shields.io/badge/-IOT-333333?style=flat&logo=IOT&logoColor=white)
