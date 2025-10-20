@@ -8,14 +8,16 @@
       <img alt="" width="400" src="/github-metrics.svg" alt="metrics"></img>
     </td>
     <td align="center">
-      <img alt="" width="400" src="/metrics.plugin.isocalendar.fullyear.svg" alt="calendar"></img>
+      <img alt="" width="400" src="/general.svg" alt="general"></img>
     </td>
   </tr>
+  <!--
   <tr>
     <td align="center", colspan = 2>
       <img alt="" width="800" src="/metrics.plugin.languages.svg" alt="languages"></img>
     </td>
   </tr>
+  !-->
 </table>
 
 <!--
