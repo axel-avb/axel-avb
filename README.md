@@ -19,20 +19,20 @@
   <tr><td>
     
 #### Platform
-![x86](https://img.shields.io/badge/x86-4EA9FB?style=for-the-badge&logo=intel&logoColor=white)
-![amd64](https://img.shields.io/badge/amd64-F96430?style=for-the-badge&logo=amd&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM-444444?style=for-the-badge&logo=arm&logoColor=white)
-![RISCV](https://img.shields.io/badge/RISCV-44A104?style=for-the-badge&logo=riscv&logoColor=white)
+![x86](https://img.shields.io/badge/x86-4EA9FB?style=flat&logo=intel&logoColor=white)
+![amd64](https://img.shields.io/badge/amd64-F96430?style=flat&logo=amd&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-444444?style=fflat&logo=arm&logoColor=white)
+![RISCV](https://img.shields.io/badge/RISCV-44A104?style=flat&logo=riscv&logoColor=white)
   </td></tr><tr><td>
 
 #### OS
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=Linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-F96430?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LFS](https://img.shields.io/badge/LFS-44B910?style=for-the-badge&logo=linux&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=for-the-badge&logo=gentoo&logoColor=white)
-![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=for-the-badge&logo=macos&logoColor=black)
-![WINDOWS](https://img.shields.io/badge/Windows%20NT4..10.x.x-070756?style=for-the-badge&logo=wndowsnt&logoColor=white)    
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-F96430?style=flat&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-B94410?style=flat&logo=ubuntu&logoColor=white)
+![LFS](https://img.shields.io/badge/LFS-44B910?style=flat&logo=linux&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-6C6CB8?style=flat&logo=gentoo&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-ABABAB?style=flat&logo=macos&logoColor=black)
+![WINDOWS](https://img.shields.io/badge/Windows%20NT4..10.x.x-070756?style=flat&logo=wndowsnt&logoColor=white)    
   </td></tr><tr><td>
 
 #### Common languages
