@@ -1,3 +1,4 @@
+<!--
 <table>
   <tr>
     <th align="center">For user accounts</th>
@@ -8,7 +9,7 @@
       <img alt="" width="400" src="/github-metrics.svg" alt="metrics"></img>
     </td>
     <td align="center">
-      <img alt="" width="400" src="/general.svg" alt="general"></img>
+      
     </td>
   </tr>
   <!--
@@ -19,6 +20,9 @@
   </tr>
   !-->
 </table>
+!-->
+
+<img alt="" width="100%" src="/general.svg" alt="general"></img>
 
 <!--
 ![Metrics](/github-metrics.svg)
