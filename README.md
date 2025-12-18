@@ -94,6 +94,8 @@
 ![NFC](https://img.shields.io/badge/-NFC-333333?style=flat&logo=NFC&logoColor=white)
 ![CAN](https://img.shields.io/badge/-CAN-333333?style=flat&logo=NFC&logoColor=white)
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white) &nbsp;
+</td></tr><tr><td colspan = "2">
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f2aca19-bfcd-4ce1-a99a-63beebc491b9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </td></tr>
 </table>
   
