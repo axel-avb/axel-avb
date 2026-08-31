@@ -39,9 +39,9 @@
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat&logo=c-in-hexagon&logoColor=white)
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat&logo=cpp2&logoColor=white)
 ![1C Enterprise and Yellow ERP](https://img.shields.io/badge/1C_Enterprise-eac54f?style=flat&logo=openjdk&logoColor=red)
+![Pascal](https://img.shields.io/badge/Pascal-4ac94f?style=fflat&logo=delphi&logoColor=blue)
 ![Python](https://img.shields.io/badge/Python-eac54f?style=flat&logo=python&logoColor=white-blue)
 ![Java](https://img.shields.io/badge/Java-0a0f4f?style=flat&logo=openjdk&logoColor=blue) 
-![Pascal](https://img.shields.io/badge/Pascal-4ac94f?style=fflat&logo=delphi&logoColor=blue)
 &nbsp; [![codewars](https://www.codewars.com/users/barnukoff/badges/small)](https://www.codewars.com/users/barnukoff) &nbsp;
   </td></tr>
 <tr><td colspan = "2", halign = "left", valign = "center">
