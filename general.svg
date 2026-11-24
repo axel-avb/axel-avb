@@ -1083,6 +1083,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1102,10 +1107,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.20662344980246" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="199.20662344980246" y="0" width="179.9741520345224" height="8" fill="#ffa500"/>
-                    <rect mask="url(#languages-bar)" x="379.1807754843249" y="0" width="80.48444334011054" height="8" fill="#ffff00"/>
-                    <rect mask="url(#languages-bar)" x="459.6652188244354" y="0" width="0.3347811755645627" height="8" fill="#008000"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.91461966822536" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="195.91461966822536" y="0" width="185.1583894681785" height="8" fill="#ffa500"/>
+                    <rect mask="url(#languages-bar)" x="381.0730091364039" y="0" width="78.60949135861361" height="8" fill="#ffff00"/>
+                    <rect mask="url(#languages-bar)" x="459.6825004950175" y="0" width="0.317499504982499" height="8" fill="#008000"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1117,8 +1122,8 @@
                                 1C Enterprise
                             </div>
                             <small>
-                                <div>3.44 MB</div>
-                                <div>43.31%</div>
+                                <div>3.56 MB</div>
+                                <div>42.59%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1129,8 +1134,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>1.39 MB</div>
-                                <div>17.5%</div>
+                                <div>1.43 MB</div>
+                                <div>17.09%</div>
                             </small>
                         </div>
                     </section>
@@ -1143,8 +1148,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.11 MB</div>
-                                <div>39.12%</div>
+                                <div>3.37 MB</div>
+                                <div>40.25%</div>
                             </small>
                         </div>
                         <div class="field language details">
